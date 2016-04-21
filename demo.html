@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="fr" ng-app="app">
+<head>
+    <meta charset="UTF-8">
+    <title>Ftv Lazyload Demo</title>
+    <link rel="stylesheet" href="demo/index.css">
+</head>
+<body ng-controller="AppCtrl">
+    <div class="upperblock"><span>Scroll down</span></div>
+    <div>
+        <img alt="première image" lzld-src="http://lorempixel.com/640/480/abstract/4" lzld-svg-placeholder="vignettePlaceHolder.svg.html">
+        <img alt="seconde image" lzld-src="http://lorempixel.com/640/480/abstract/10" lzld-svg-placeholder="demo/svg/vignettePlaceHolder_2.svg">
+    </div>
+    <script src="dist/js/libs.js"></script>
+    <script src="dist/js/ftv.components.lazyload.js"></script>
+    <script src="demo/templates/template.js"></script>
+    <script src="demo/index.js"></script>
+</body>
+</html>

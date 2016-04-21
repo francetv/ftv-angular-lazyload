@@ -1,0 +1,13 @@
+html, body {
+    height: 150%;
+}
+
+img {
+    width: 640px;
+    height: 480px;
+}
+
+.upperblock {
+    height: 100%;
+    text-align: center;
+}
