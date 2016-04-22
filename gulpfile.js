@@ -26,7 +26,7 @@ var js = {
     component: {
         name: "ftv.components.lazyload.js",
         files: [
-            "index.js"
+            "component.js"
         ]
     }
 };
