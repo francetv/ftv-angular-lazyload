@@ -65,3 +65,6 @@ gulp build
 ```
 gulp test
 ```
+
+---------------------------------------
+This project is part of [francetv zoom open source projects](https://gitlab.ftven.net/team-infini/zoom-public) (iOS, Android and Angular)
