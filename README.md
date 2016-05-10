@@ -1,11 +1,13 @@
 # Ftv::Components::Lazyload
 
+This project is part of [francetv zoom open source projects](https://github.com/francetv/zoom-public) (iOS, Android and Angular).
+
 A component that integrates lazyload in angular easily. Display image only when they are visible in viewport.
 
 ## Get sources
 
 ```
-git clone git@gitlab.ftven.net:team-infini/ftv-angular-lazyload.git
+git clone git@github.com/francetv/ftv-angular-lazyload.git
 ```
 
 ##  How to use
@@ -65,6 +67,3 @@ gulp build
 ```
 gulp test
 ```
-
----------------------------------------
-This project is part of [francetv zoom open source projects](https://gitlab.ftven.net/team-infini/zoom-public) (iOS, Android and Angular)
