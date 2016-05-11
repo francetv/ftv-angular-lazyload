@@ -2,7 +2,7 @@
 
 This project is part of [francetv zoom open source projects](https://github.com/francetv/zoom-public) (iOS, Android and Angular).
 
-A component that integrates lazyload in angular easily. Display image only when they are visible in viewport.
+A component that integrates [lazyload](https://vvo.github.io/lazyload) in angular easily. Display image only when they are visible in viewport.
 
 ## Get sources
 
