@@ -7,7 +7,7 @@ A component that integrates [lazyload](https://vvo.github.io/lazyload) in angula
 ## Get sources
 
 ```
-git clone git@github.com/francetv/ftv-angular-lazyload.git
+git clone git@github.com:francetv/ftv-angular-lazyload.git
 ```
 
 ##  How to use

@@ -18,6 +18,7 @@
     ".gitignore",
     "demo.html",
     "component.js",
+    "dist/js/libs",
     "gulpfile.js"
   ],
   "keywords": [
