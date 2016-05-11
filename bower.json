@@ -1,9 +1,28 @@
 {
-  "name": "ftv-components-ladyload",
+  "name": "ftv-components-lazyload",
+  "main": [
+    "dist/js/ftv.components.lazyload.js"
+  ],
   "dependencies": {
     "angular": "angularjs#1.5.2",
-    "angular-mocks": "1.5.2",
     "lazyload": "https://github.com/vvo/lazyload.git#v3.2.2",
     "jquery": "~2.2.3"
-  }
+  },
+  "devDependencies": {
+    "angular-mocks": "1.5.2"
+  },
+  "ignore": [
+    "**/.*",
+    "tests",
+    "demo",
+    ".gitignore",
+    "demo.html",
+    "component.js",
+    "gulpfile.js"
+  ],
+  "keywords": [
+    "angularjs",
+    "lazyload"
+  ],
+  "license": "MIT"
 }
